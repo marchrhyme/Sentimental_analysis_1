@@ -1,4 +1,4 @@
-# Sentimental_analysis_1
+# Sentimental_analysis_1 (not completed)
 Our objective was to conduct Sentiment Analysis on a given dataset. To achieve this, we followed the following steps:
 
 1. Imported the necessary CSV file.
